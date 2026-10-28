@@ -39,3 +39,11 @@
 /* Áreas clicáveis adaptadas à nova imagem Red Demon */
 .hero-hotspot-shop{left:5.5%;top:71.5%;width:14.2%;height:9%}
 .hero-hotspot-care{left:21.4%;top:71.5%;width:14.4%;height:9%}
+
+/* Carrinho maior — contador centrado sobre o canto superior do ícone */
+.header .cart-btn{display:inline-flex;align-items:center;gap:12px;overflow:visible;min-height:62px;padding:11px 20px 11px 17px}
+.header .cart-btn .cart-symbol{position:relative;display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;flex:0 0 40px;overflow:visible;line-height:0}
+.header .cart-btn .cart-symbol svg{display:block;width:40px;height:40px}
+.header .cart-btn .cart-symbol #cartCount{position:absolute;top:-10px;right:-12px;left:auto;transform:none;width:auto;min-width:25px;height:25px;padding:0 5px;display:grid;place-items:center;line-height:1;font-size:12px;font-weight:800;color:#101010;background:#e1b45a;border:2px solid #000;border-radius:999px;box-shadow:0 2px 6px #0009;pointer-events:none;z-index:5}
+.header .cart-btn .cart-label{white-space:nowrap}
+@media(max-width:760px){.header .cart-btn{padding:9px 13px;min-width:64px;min-height:58px}.header .cart-btn .cart-label{display:none}}
