@@ -1,0 +1,112 @@
+[
+  {
+    "id": "blue-bolt",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935c75ce00.jpg",
+    "name": "Blue Bolt",
+    "category": "Caridina",
+    "grade": "Grau AA",
+    "price": 12.5,
+    "stock": 12,
+    "color": "#55b8eb",
+    "description": "Azul sólido de topo entre as Caridinas de água ácida."
+  },
+  {
+    "id": "blue-dream-oe",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_6ad9d2205507e.jpg",
+    "name": "Blue Dream OE",
+    "category": "Neocaridina",
+    "grade": "Blue Dream",
+    "price": 6.9,
+    "stock": 0,
+    "color": "#3a75d5",
+    "description": "Azul claro e contrastante — atualmente esgotado."
+  },
+  {
+    "id": "crystal-black",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935c32c5e1.jpg",
+    "name": "Crystal Black (CBS)",
+    "category": "Caridina",
+    "grade": "Grau S",
+    "price": 8.5,
+    "stock": 24,
+    "color": "#5c6473",
+    "description": "Versão preta e branca das Crystal, elegante e exigente."
+  },
+  {
+    "id": "crystal-red",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935c06ba7e.jpg",
+    "name": "Crystal Red (CRS)",
+    "category": "Caridina",
+    "grade": "Grau S",
+    "price": 8.5,
+    "stock": 30,
+    "color": "#e85555",
+    "description": "Padrão vermelho e branco clássico das Caridinas."
+  },
+  {
+    "id": "king-kong",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935cbce59a.jpg",
+    "name": "King Kong",
+    "category": "Caridina",
+    "grade": "Grau AA",
+    "price": 14.9,
+    "stock": 8,
+    "color": "#363b49",
+    "description": "Pretos profundos e padrões únicos, para colecionadores."
+  },
+  {
+    "id": "red-bee",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935c55f22c.jpg",
+    "name": "Red Bee",
+    "category": "Caridina",
+    "grade": "Grau A",
+    "price": 9.9,
+    "stock": 18,
+    "color": "#dd5a62",
+    "description": "Listas vermelhas sobre fundo translúcido."
+  },
+  {
+    "id": "red-demon-oe",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935b245da6.jpg",
+    "name": "Red Demon OE",
+    "category": "Neocaridina",
+    "grade": "Red Demon",
+    "price": 4.5,
+    "stock": 0,
+    "color": "#d8334c",
+    "description": "Vermelho intenso e aveludado, uma variedade especial."
+  },
+  {
+    "id": "taiwan-bee",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935ce1a3df.jpg",
+    "name": "Taiwan Bee",
+    "category": "Caridina",
+    "grade": "Grau AA",
+    "price": 13.5,
+    "stock": 0,
+    "color": "#725b96",
+    "description": "Padrões muito procurados — de momento esgotado."
+  },
+  {
+    "id": "tangerine-tiger",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935c9f3ec1.jpg",
+    "name": "Tangerine Tiger",
+    "category": "Caridina",
+    "grade": "Grau A",
+    "price": 10,
+    "stock": 15,
+    "color": "#eb903c",
+    "description": "Listas laranja sobre fundo escuro."
+  },
+  {
+    "id": "yellow-golden-back",
+    "image": "https://files.cdn-files-a.com/uploads/12489304/800_gi-6ad935b915759.jpg",
+    "name": "Yellow Golden Back",
+    "category": "Neocaridina",
+    "grade": "Golden Back",
+    "price": 2,
+    "stock": 15,
+    "color": "#e5bb37",
+    "description": "Amarelo vivo que contrasta com plantas verdes."
+  }
+]
